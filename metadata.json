@@ -1,0 +1,8 @@
+{
+  "name": "NEXPLAY - Recargas Digitales de Videojuegos",
+  "description": "Tienda de recargas instantáneas y automáticas para Blood Strike, Free Fire, Roblox y más juegos. Compra rápida y 100% segura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
